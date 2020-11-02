@@ -10,7 +10,7 @@ characters utilizing lowercase letters, uppercase letters, numbers and symbols.
 - Javascript
 
 ** Directions **
---------------------------------------
+---------------------------------------
 - Enter a numeric value between 8 and 128 to choose the character length of 
   your new password. 
 - Respond to the 4 prompts that follow
@@ -18,6 +18,12 @@ characters utilizing lowercase letters, uppercase letters, numbers and symbols.
         - Cancel = no 
 - Copy and paste your new password whether you would like. 
 - Remember to write it down or store it in a safe place. 
+
+** Screenshot **
+---------------------------------------
+![Alt text](/Password-Generator-HW/main.png?raw=true "Password Generator")
+
+
 
 
 
