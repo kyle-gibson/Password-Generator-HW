@@ -28,18 +28,18 @@ get.addEventListener("click", function () {
 });
 
 function generatePassword() {
-      enter = parseInt(prompt("How many symbols would you like your password? Choose between 8 and 128"));
+      enter = parseInt(prompt("How many characters would you like your password to be? Choose between 8 and 128"));
     
     if (!enter) {
-        alert("This needs a value");
+        alert("This requires a value");
     } else if (enter < 8 || enter > 128) {
-            enter = parseInt(prompt("You must choose between 8 and 128"));
+            enter = parseInt(prompt("Your password must be between 8 and 128"));
 
     } else {
-        confirmNumber = confirm("Will this contain numbers?");
-        confirmSymbol = confirm("Will this contain special symbols?");
-        confirmUppercase = confirm("Will this contain Uppercase letters?");
-        confirmLowercase = confirm("Will this contain Lowercase letters?");
+        confirmNumber = confirm("Would you like to include numbers?");
+        confirmSymbol = confirm("Would you like to include special symbols?");
+        confirmUppercase = confirm("Would you like to include uppercase letters?");
+        confirmLowercase = confirm("Would you like to include lowercase letters?");
     };
 
     if (!confirmSymbol && !confirmNumber && !confirmUppercase && !confirmLowercase) {
