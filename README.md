@@ -22,7 +22,7 @@ characters utilizing lowercase letters, uppercase letters, numbers and symbols.
 ** Screenshot **
 ---------------------------------------
 Main Screen
-https://i.gyazo.com/b023d92cf2e4cd0b38d6b0d05454ffb2.png
+![image](https://github.com/kylegibson0827/Password-Generator-HW/blob/main/main.png)
 
 Yes or No Example
 ![image](https://github.com/kylegibson0827/Password-Generator-HW/blob/main/yesno.png)
