@@ -21,7 +21,7 @@ characters utilizing lowercase letters, uppercase letters, numbers and symbols.
 
 ** Screenshot **
 ---------------------------------------
-![Alt text](/Password-Generator-HW/main.png?raw=true "Password Generator")
+![Alt Text](https://raw.github.com/{kylegibson0827}/{Password-Generator-HW}/{main.png})
 
 
 
