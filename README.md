@@ -25,7 +25,7 @@ Main Screen
 https://i.gyazo.com/b023d92cf2e4cd0b38d6b0d05454ffb2.png
 
 Yes or No Example
-https://i.gyazo.com/7a9dca2f95a4b66d5f8a8f8be0edd848.png
+![image](https://github.com/kylegibson0827/Password-Generator-HW/blob/main/yesno.png)
 
 
 
